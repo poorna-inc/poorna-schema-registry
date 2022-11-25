@@ -1,0 +1,1 @@
+# poorna-schema-registry
